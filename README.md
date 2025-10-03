@@ -1,10 +1,10 @@
-Serverless Contact Form with AWS Lambda and DynamoDB
+**Serverless Contact Form with AWS Lambda and DynamoDB**
 
 This project demonstrates a serverless web application built using AWS Lambda, API Gateway, DynamoDB, and S3.
 It serves an HTML contact form (contactus.html) and stores submitted form data into a DynamoDB table. After submission, users are redirected to a success page (success.html).
 you can acess it here https://b4uipnm17d.execute-api.us-east-2.amazonaws.com/Dev
 
-🚀 Architecture
+**🚀 Architecture**
 
 Frontend:
 
@@ -47,11 +47,11 @@ Fill in the form and click Submit.
 
 Check DynamoDB to confirm that the record is saved.
 
-📷 Demo Screenshot
-<img width="1060" height="1346" alt="image" src="https://github.com/user-attachments/assets/359fc325-5f9e-4ac8-b32f-9eec866ad0e1" />
+**📷 Demo Screenshot**
+<img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/359fc325-5f9e-4ac8-b32f-9eec866ad0e1" />
 <img width="2034" height="1462" alt="image" src="https://github.com/user-attachments/assets/8078c5f8-c286-48fa-9f87-2eaa3e96d437" />
 
-📧 Auto-Reply via DynamoDB Streams + SES
+**📧 Auto-Reply via DynamoDB Streams + SES**
 
 We enabled DynamoDB Streams (New Image) on TejaswiniTable.
 
