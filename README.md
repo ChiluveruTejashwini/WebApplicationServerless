@@ -48,8 +48,8 @@ Fill in the form and click Submit.
 Check DynamoDB to confirm that the record is saved.
 
 **📷 Demo Screenshot**
-<img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/359fc325-5f9e-4ac8-b32f-9eec866ad0e1" />
-<img width="2034" height="1462" alt="image" src="https://github.com/user-attachments/assets/8078c5f8-c286-48fa-9f87-2eaa3e96d437" />
+<img width="700" height="900" alt="image" src="https://github.com/user-attachments/assets/359fc325-5f9e-4ac8-b32f-9eec866ad0e1" />
+<img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/8078c5f8-c286-48fa-9f87-2eaa3e96d437" />
 
 **📧 Auto-Reply via DynamoDB Streams + SES**
 
